@@ -49,6 +49,3 @@ The project involves creating, executing, and validating test scenarios for vari
 ### DELETE Method
 - Re-test and perform regression testing to ensure that the DELETE method continues to work after changes.
 
-## 6. Exploratory Testing
-### Definition
-- Exploratory testing involves exploring

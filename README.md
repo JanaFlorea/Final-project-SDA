@@ -2,7 +2,7 @@
 
 The project involves creating, executing, and validating test scenarios for various tasks related to database tables and API methods. Here's a breakdown:
 
-## Verify Database Table
+## 1. Verify Database Table
 ### Requirements for Writing Test Scenarios
 - Understand the structure of the database table, the expected data it should contain, and the operations it should support.
 
@@ -12,7 +12,7 @@ The project involves creating, executing, and validating test scenarios for vari
 ### Testing the Task
 - Execute the test cases and verify that the database table performs as expected.
 
-## GET Method
+## 2. GET Method
 ### Requirements for Writing Test Scenarios
 - Understand the endpoint, the expected response structure, and any parameters it accepts.
 
@@ -22,7 +22,7 @@ The project involves creating, executing, and validating test scenarios for vari
 ### Testing the Task
 - Execute the test cases and validate that the GET method retrieves data as expected.
 
-## DELETE Method
+## 3. DELETE Method
 ### Requirements for Writing Test Scenarios
 - Understand the endpoint, the expected behavior upon deletion, and any constraints.
 
@@ -32,7 +32,7 @@ The project involves creating, executing, and validating test scenarios for vari
 ### Testing the Task
 - Execute the test cases and validate that the DELETE method performs as expected.
 
-## POST Method
+## 4. POST Method
 ### Requirements for Writing Test Scenarios
 - Understand the endpoint, the expected request and response structures, and data validation rules.
 
@@ -42,13 +42,13 @@ The project involves creating, executing, and validating test scenarios for vari
 ### Testing the Task
 - Execute the test cases and validate that the POST method creates data as expected.
 
-## Retesting and Regression Testing
+## 5. Retesting and Regression Testing
 ### GET Method
 - Re-test and perform regression testing to ensure that the GET method continues to work after changes.
 
 ### DELETE Method
 - Re-test and perform regression testing to ensure that the DELETE method continues to work after changes.
 
-## Exploratory Testing
+## 6. Exploratory Testing
 ### Definition
 - Exploratory testing involves exploring
